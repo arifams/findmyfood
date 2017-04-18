@@ -1,0 +1,10 @@
+#text {
+  color: red;
+  font-family: sans-serif, arial;
+  padding: 10px 0 10px 0;
+}
+
+#result {
+  color: grey;
+  padding: 20px 0 10px 0;
+}
